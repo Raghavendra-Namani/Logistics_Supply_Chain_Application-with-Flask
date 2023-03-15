@@ -1,0 +1,11 @@
+The clustering algorithm used is k_means
+The input file have 11171 observations and 111 features
+Removed 1 observations and 0 features after preprocessing
++----------+------------------------+
+| Cluster# | Number of observations |
++----------+------------------------+
+|    0     |          5104          |
+|    1     |          3462          |
+|    2     |          1619          |
+|    3     |          985           |
++----------+------------------------+
